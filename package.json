@@ -1,0 +1,8 @@
+{
+  "name": "se.his.dsu.fpscontroller",
+  "displayName": "First Person Controller",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "description": "Simple First-Person Controller prefab.",
+  "type": "module"
+}
