@@ -3,8 +3,8 @@
 [RequireComponent(typeof(Rigidbody))]
 public class FirstPersonController : MonoBehaviour
 {
-    [SerializeField] private float mouseSensitivity = 10.0f;
-    [SerializeField] private float walkSpeed = 2.0f; 
+    [SerializeField] private float mouseSensitivity = 4.0f;
+    [SerializeField] private float walkSpeed = 4.0f; 
     
     private Camera _camera;
     private Rigidbody _rigidbody;
